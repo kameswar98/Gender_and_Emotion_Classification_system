@@ -3,6 +3,7 @@
 To run this software, need to install Anaconda 3 or higher
 
 After that following python packages are need to be installed 
+
  	Keras 2.0.5 or higher
   
  	Tensorflow 1.1.0 or higher
