@@ -1,4 +1,5 @@
 """
+File: train_emotion_classifier.py
 Author: Octavio Arriaga
 Email: arriaga.camargo@gmail.com
 Github: https://github.com/oarriaga
