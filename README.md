@@ -1,6 +1,5 @@
 # Gender_and_Emotion_Classification_system
 
-=======
 To run this software, need to install Anaconda 3 or higher
 
 After that following python packages are need to be installed 
